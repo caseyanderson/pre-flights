@@ -20,7 +20,7 @@ Do you have Xcode? To check go to the terminal and execute `xcode-select -p`.
 
 Enter `xcode-select --install` into the terminal, which should result in something like this:
 
-![](imgs/xcode-select_install_cmnd_line_tools.png)
+![](py3/imgs/xcode-select_install_cmnd_line_tools.png)
 
 Click `Install` to download and install the `Xcode Command Line Tools` (it takes a while so maybe go make some food or get a cup of coffee or something).
 
@@ -31,7 +31,7 @@ Copy and paste this code into the terminal and press `enter` to install [homebre
 
 If prompted, agree to the Xcode license
 
-![](imgs/agree_to_xcode_license.png)
+![](py3/imgs/agree_to_xcode_license.png)
 
 by executing `sudo xcodebuild -license` in the terminal.
 
@@ -83,8 +83,8 @@ Run `iPython`, import the `NLTK` library, then run the downloader in the followi
 
 It should look like this in the terminal prior to launching the downloader:
 
-![](/imgs/nltk_download.png)
+![](/py3/imgs/nltk_download.png)
 
 Then select `book` and click `Download`:
 
-![](/imgs/nltk_downloader_book.png)
+![](/py3imgs/nltk_downloader_book.png)
