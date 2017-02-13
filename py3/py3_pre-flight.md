@@ -20,7 +20,7 @@ Do you have Xcode? To check go to the terminal and execute `xcode-select -p`.
 
 Enter `xcode-select --install` into the terminal, which should result in something like this:
 
-![](py3/imgs/xcode-select_install_cmnd_line_tools.png)
+![](/py3/imgs/xcode-select_install_cmnd_line_tools.png)
 
 Click `Install` to download and install the `Xcode Command Line Tools` (it takes a while so maybe go make some food or get a cup of coffee or something).
 
@@ -31,7 +31,7 @@ Copy and paste this code into the terminal and press `enter` to install [homebre
 
 If prompted, agree to the Xcode license
 
-![](py3/imgs/agree_to_xcode_license.png)
+![](/py3/imgs/agree_to_xcode_license.png)
 
 by executing `sudo xcodebuild -license` in the terminal.
 
