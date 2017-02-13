@@ -87,4 +87,4 @@ It should look like this in the terminal prior to launching the downloader:
 
 Then select `book` and click `Download`:
 
-![](/py3imgs/nltk_downloader_book.png)
+![](/py3/imgs/nltk_downloader_book.png)
