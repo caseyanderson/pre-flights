@@ -13,7 +13,7 @@ Programming languages are typically either General Purpose or Domain Specific:
 
 ##  Visual Programming vs Writing Code
 
-Visual Programming platforms abstract functions and other basic components of programming languages into widgets. The emphasis is on the rapid acquisition of skills and as such are very popular in educational contexts (and not used very much elsewhere). Examples: [NTK](http://www.netlabtoolkit.org/), [Max/MSP](https://cycling74.com/products/max/), [PureData](http://puredata.info/), [Scratch](https://scratch.mit.edu/about/), [Unity](https://unity3d.com/).
+Visual Programming platforms abstract functions and other basic components of programming languages into widgets. The emphasis is on the rapid acquisition of skills and as such these applications are very popular in educational contexts (and not used very much elsewhere). Examples: [NTK](http://www.netlabtoolkit.org/), [Max/MSP](https://cycling74.com/products/max/), [PureData](http://puredata.info/), [Scratch](https://scratch.mit.edu/about/), [Unity](https://unity3d.com/).
 
 Frequently  these applications try to "make programming easier" by giving you "out of the box" or "plug and play" functionality. This is all well and fine until you have an idea or need that did not occur to the programmer developing Unity (for example), at which point the reliance on "it just works" technology completely breaks down. In other words, Visual Programming is fine for some things, but one will quickly encounter the limits therein as their ideas grow.
 
