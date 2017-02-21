@@ -18,7 +18,7 @@ Visual Programming platforms abstract functions and other basic components of pr
 Frequently  these applications try to "make programming easier" by giving you "out of the box" or "plug and play" functionality. This is all well and fine until you have an idea or need that did not occur to the programmer developing Unity (for example), at which point the reliance on "it just works" technology completely breaks down. In other words, Visual Programming is fine for some things, but one will quickly encounter the limits therein as their ideas grow.
 
 
-## MDP Recommends
+## MDP Recommends (Languages/Platforms)
 
 * NTK for rapid interactive prototyping and acquisition of programming concepts
 * Javascript/Python, HTML, CSS for web portfolios and sites
@@ -26,6 +26,14 @@ Frequently  these applications try to "make programming easier" by giving you "o
 * Arduino for prototyping digital electronics
 * SuperCollider for computationally working with sound
 
+
+## MDP Recommends (Development Toolchain)
+
+* [iTerm2](https://iterm2.com/)
+* [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/)
+* [Homebrew](https://brew.sh/)
+* [iPython](https://ipython.org/)
+* [Pip](https://pypi.python.org/pypi)
 
 ## Further rearding
 
