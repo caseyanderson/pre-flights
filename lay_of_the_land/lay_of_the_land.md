@@ -17,6 +17,7 @@ Visual Programming platforms abstract functions and other basic components of pr
 
 Frequently  these applications try to "make programming easier" by giving you "out of the box" or "plug and play" functionality. This is all well and fine until you have an idea or need that did not occur to the programmer developing Unity (for example), at which point the reliance on "it just works" technology completely breaks down. In other words, Visual Programming is fine for some things, but one will quickly encounter the limits therein as their ideas grow.
 
+
 ## MDP Recommends
 
 * NTK for rapid interactive prototyping and acquisition of programming concepts
