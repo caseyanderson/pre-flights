@@ -27,8 +27,8 @@ Frequently  these applications try to "make programming easier" by giving you "o
 * SuperCollider for computationally working with sound
 
 
-## Further regarding
+## Further rearding
 
-* [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Programming Sucks](http://www.stilldrinking.org/programming-sucks)
