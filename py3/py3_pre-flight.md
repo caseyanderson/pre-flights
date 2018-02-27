@@ -61,6 +61,10 @@ executing `ipython3` in the terminal starts the [IDE](https://en.wikipedia.org/w
 
 `pip3 install beautifulsoup4`
 
+### lxml
+
+`pip3 install lxml`
+
 
 ### Natural Language Toolkit
 
