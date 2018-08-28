@@ -45,7 +45,7 @@ To install **Python3** execute `brew install python3` in the terminal.
 
 ### PyPI
 
-**PyPi** is frequently referred to as `pip`. It is used to manage Python library installations and ships with **Python3** when installed via **Homebrew**. The command to use it is `pip3`, **not** `pip`.
+**PyPi** is frequently referred to as `pip`. It is used to manage **Python** library installations and ships with **Python3** when installed via **Homebrew**. The command to use it is `pip3`, **not** `pip`.
 
 Search for something on `pip3` with the `search` command. For example: `pip3 search jupyter`
 
@@ -60,7 +60,7 @@ Executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikiped
 
 ![](/py3/imgs/jupyterhome.png)
 
-On the **Jupyter** home page click `New` and select **Python3**. This will create and open an **iPython Notebook** file.
+On the **Jupyter** homepage click `New` and select **Python3**. This will create and open an **iPython Notebook** file.
 
 ![](/py3/imgs/pyjupyternotebook.png)
 
