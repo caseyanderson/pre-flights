@@ -58,7 +58,7 @@ Install `Jupyter` via `pip3` as follows:
 
 executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). You should see this in the browser
 
-![](/py3/imgs/jupyternotebook.png)
+![](py3/imgs/jupyternotebook.png)
 
 
 ### BeautifulSoup4
