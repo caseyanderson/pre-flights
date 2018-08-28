@@ -56,9 +56,19 @@ Install `Jupyter` via `pip3` as follows:
 1. `pip3 install --upgrade pip`
 2. `pip3 install jupyter`
 
-executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). You should see this in the browser:
+executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
-![](/py3/imgs/gah.png)
+![](/py3/imgs/jupyterhome.png)
+
+On the Jupyter home page click on New and select Python 3. This will open an iPython Notebook file.
+
+![](/py3/imgs/pyjupyternotebook.png)
+
+Click `File`, select `Save As` and then name this file. Next click `File` and select `Close and Halt`.
+
+When you return to the Jupyter homepage you should see the iPython notebook file (`.ipynb`) that you just saved.
+
+![](/py3/imgs/jupyteripynb.png)
 
 
 ### BeautifulSoup4
