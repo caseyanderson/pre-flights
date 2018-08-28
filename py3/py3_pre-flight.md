@@ -6,7 +6,7 @@ Below are instructions regarding installing things needed for general developmen
 * [Homebrew](http://brew.sh/)
 * [Python3](https://www.python.org/)
 * [PyPI](https://pypi.python.org/pypi)
-* [iPython3](https://ipython.org/install.html)
+* [Jupyter](https://jupyter.org/index.html)
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
 * [Natural Language Toolkit](http://www.nltk.org/)
 
@@ -45,16 +45,20 @@ To install Python 3 (**not Python 2**) execute `brew install python3` in the ter
 
 ### PyPI
 
-PyPi is frequently referred to as `pip`. It is used to manage Python library installations and ships with `Python3` when installed via `Homebrew`. The command to use it is `pip3`, **not** pip.
+PyPi is frequently referred to as `pip`. It is used to manage Python library installations and ships with `Python3` when installed via `Homebrew`. The command to use it is `pip3`, **not** `pip`.
 
-Search for something on `pip` with the `search` command. For example: `pip3 search ipython`
+Search for something on `pip3` with the `search` command. For example: `pip3 search jupyter`
 
 
-### iPython
+### Jupyter
 
-Install `iPython` via `pip`: `pip3 install ipython`
+Install `Jupyter` via `pip3` as follows:
+1. `pip3 install --upgrade pip`
+2. `pip3 install jupyter`
 
-executing `ipython3` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
+executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). You should see this in the browser
+
+![](/py3/imgs/jupyternotebook.png)
 
 
 ### BeautifulSoup4
