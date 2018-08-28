@@ -100,10 +100,6 @@ Run **Jupyter**, navigate to the file you created earlier, import the **NLTK** l
 3. `import nltk`
 4. `nltk.download()`
 
-It should look like this in the terminal prior to launching the downloader:
-
-![](/py3/imgs/nltk_download.png)
-
-Then select `book` and click `Download`:
+A new terminal window will open that looks like the image below. Select `book` and click `Download`:
 
 ![](/py3/imgs/nltk_downloader_book.png)
