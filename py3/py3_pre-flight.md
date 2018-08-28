@@ -13,7 +13,7 @@ Below are instructions regarding installing things needed for general developmen
 
 ### Xcode / The Command Line Tools
 
-Do you have Xcode? To check go to the terminal and execute `xcode-select -p`.
+Do you have **Xcode**? To check go to the terminal and execute `xcode-select -p`.
 
 * If `/Applications/Xcode.app/Contents/Developer` (or something similar) appears as a response proceed to the next step.
 * If anything else happens download and install `Xcode` from [here](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) before moving on.
@@ -22,14 +22,14 @@ Enter `xcode-select --install` into the terminal, which should result in somethi
 
 ![](/py3/imgs/xcode-select_install_cmnd_line_tools.png)
 
-Click `Install` to download and install the `Xcode Command Line Tools` (it takes a while so maybe go make some food or get a cup of coffee or something).
+Click `Install` to download and install the **Xcode Command Line Tools** (it takes a while so maybe go make some food or get a cup of coffee or something).
 
 
 ### Homebrew
 
 Copy and paste this code into the terminal and press `enter` to install [homebrew](http://brew.sh/):  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-If prompted, agree to the Xcode license
+If prompted, agree to the **Xcode** license
 
 ![](/py3/imgs/agree_to_xcode_license.png)
 
@@ -40,33 +40,33 @@ Search to see if something is available on `homebrew` with `search`. For example
 
 ### Python3
 
-To install Python 3 (**not Python 2**) execute `brew install python3` in the terminal.
+To install **Python3** execute `brew install python3` in the terminal.
 
 
 ### PyPI
 
-PyPi is frequently referred to as `pip`. It is used to manage Python library installations and ships with `Python3` when installed via `Homebrew`. The command to use it is `pip3`, **not** `pip`.
+**PyPi** is frequently referred to as `pip`. It is used to manage Python library installations and ships with **Python3** when installed via **Homebrew**. The command to use it is `pip3`, **not** `pip`.
 
 Search for something on `pip3` with the `search` command. For example: `pip3 search jupyter`
 
 
 ### Jupyter
 
-Install `Jupyter` via `pip3` as follows:
+Install **Jupyter** via `pip3` as follows:
 1. `pip3 install --upgrade pip`
 2. `pip3 install jupyter`
 
-executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
+Executing `jupyter notebook` in the terminal starts the [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
 ![](/py3/imgs/jupyterhome.png)
 
-On the Jupyter home page click on New and select Python 3. This will open an iPython Notebook file.
+On the **Jupyter** home page click `New` and select **Python3**. This will create and open an **iPython Notebook** file.
 
 ![](/py3/imgs/pyjupyternotebook.png)
 
-Click `File`, select `Save As` and then name this file. Next click `File` and select `Close and Halt`.
+Click `File`, select `Save As` and then name the file. Next click `File` and select `Close and Halt` to exit.
 
-When you return to the Jupyter homepage you should see the iPython notebook file (`.ipynb`) that you just saved.
+When you return to the **Jupyter** homepage you should see the **iPython Notebook** file (`.ipynb`) that you just saved.
 
 ![](/py3/imgs/jupyteripynb.png)
 
@@ -93,11 +93,12 @@ Confirm that it works with the following steps (all in the terminal):
 
 ### NLTK Things
 
-Run `iPython`, import the `NLTK` library, then run the downloader in the following steps:
+Run **Jupyter**, navigate to the file you created earlier, import the **NLTK** library, then run the downloader in the following steps:
 
-1. `ipython3`
-2. `import nltk`
-3. `nltk.download()`
+1. `jupyter notebook`
+2. Navigate to the file, open it
+3. `import nltk`
+4. `nltk.download()`
 
 It should look like this in the terminal prior to launching the downloader:
 
